@@ -40,8 +40,8 @@
         question: "A human forgets ..... of his dreams.",
         answers: {
           a: "50%",
-          b: "80%",
-          c: "90%"
+          b: "90%",
+          c: "80%"
         },
         correctAnswer: "c"
       },
